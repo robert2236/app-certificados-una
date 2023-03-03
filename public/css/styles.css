@@ -1,0 +1,68 @@
+/*logo de aplicacion */
+.logo {
+    width: 40px;
+    height: auto;
+  }
+/*Titulos de seccion*/
+h3{
+    text-align: center;
+}
+
+/* Img de cada ruta */
+
+.card .card-img-top {
+    height: 350px !important;
+  }
+
+/*Cerfificado */
+
+.certificado {
+    max-width: 50%;
+    display: block;
+    margin: 0 auto;
+    padding-top: 90px;
+}
+
+.texto-certificado {
+    text-align: center;
+    margin-top: 20px;
+    padding: 0 5%;
+}
+
+.form-control {
+    font-size: 14px;
+    padding: 0.5rem 1rem;
+  }
+  
+
+  .text-center {
+    text-align: center;
+  }
+
+  /* Estilos para la tabla de cursos_data */
+  #cursos_data th {
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+    background-color: #ccc;
+    padding: 10px;
+}
+#cursos_data td {
+    text-align: center;
+    vertical-align: middle;
+    padding-left: 10px;
+    margin-left: 15px !important;
+}
+
+    
+@media (min-width: 768px) {
+    .texto-certificado {
+        padding: 0 10%;
+    }
+}
+
+@media (min-width: 992px) {
+    .texto-certificado {
+        padding: 0 15%;
+    }
+}

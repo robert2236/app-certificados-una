@@ -1,0 +1,6 @@
+{
+    "explorer.copyRelativePathSeparator": "/",
+    "explorer.autoReveal": true,
+    "problems.autoReveal": false,
+    "scm.autoReveal": true
+}
